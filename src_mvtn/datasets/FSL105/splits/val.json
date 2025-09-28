@@ -1,1567 +1,1567 @@
 [
   {
-    "video_id": "sign0_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/0/18.MOV",
+    "video_id": "sign0_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/0/5.MOV",
     "label": 0
   },
   {
-    "video_id": "sign0_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/0/10.MOV",
+    "video_id": "sign0_vid19",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/0/19.MOV",
     "label": 0
   },
   {
-    "video_id": "sign0_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/0/6.MOV",
+    "video_id": "sign0_vid13",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/0/13.MOV",
     "label": 0
   },
   {
-    "video_id": "sign1_vid5",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/1/5.MOV",
+    "video_id": "sign1_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/1/1.MOV",
     "label": 1
   },
   {
-    "video_id": "sign1_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/1/8.MOV",
+    "video_id": "sign1_vid16",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/1/16.MOV",
     "label": 1
   },
   {
     "video_id": "sign1_vid2",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/1/2.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/1/2.MOV",
     "label": 1
   },
   {
-    "video_id": "sign2_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/2/11.MOV",
-    "label": 2
-  },
-  {
-    "video_id": "sign2_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/2/16.MOV",
+    "video_id": "sign2_vid2",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/2/2.MOV",
     "label": 2
   },
   {
     "video_id": "sign2_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/2/8.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/2/8.MOV",
     "label": 2
   },
   {
-    "video_id": "sign3_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/3/7.MOV",
+    "video_id": "sign2_vid13",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/2/13.MOV",
+    "label": 2
+  },
+  {
+    "video_id": "sign3_vid11",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/3/11.MOV",
+    "label": 3
+  },
+  {
+    "video_id": "sign3_vid18",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/3/18.MOV",
     "label": 3
   },
   {
     "video_id": "sign3_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/3/17.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/3/17.MOV",
     "label": 3
   },
   {
-    "video_id": "sign3_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/3/0.MOV",
-    "label": 3
-  },
-  {
-    "video_id": "sign4_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/4/3.MOV",
+    "video_id": "sign4_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/4/8.MOV",
     "label": 4
   },
   {
-    "video_id": "sign4_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/4/7.MOV",
+    "video_id": "sign4_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/4/1.MOV",
     "label": 4
   },
   {
-    "video_id": "sign4_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/4/6.MOV",
+    "video_id": "sign4_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/4/12.MOV",
     "label": 4
-  },
-  {
-    "video_id": "sign5_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/5/18.MOV",
-    "label": 5
-  },
-  {
-    "video_id": "sign5_vid15",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/5/15.MOV",
-    "label": 5
   },
   {
     "video_id": "sign5_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/5/1.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/5/1.MOV",
     "label": 5
   },
   {
-    "video_id": "sign6_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/6/13.MOV",
+    "video_id": "sign5_vid10",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/5/10.MOV",
+    "label": 5
+  },
+  {
+    "video_id": "sign5_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/5/14.MOV",
+    "label": 5
+  },
+  {
+    "video_id": "sign6_vid16",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/6/16.MOV",
     "label": 6
   },
   {
     "video_id": "sign6_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/6/17.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/6/17.MOV",
     "label": 6
   },
   {
-    "video_id": "sign6_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/6/6.MOV",
+    "video_id": "sign6_vid13",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/6/13.MOV",
     "label": 6
   },
   {
-    "video_id": "sign7_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/7/16.MOV",
-    "label": 7
-  },
-  {
-    "video_id": "sign7_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/7/3.MOV",
+    "video_id": "sign7_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/7/14.MOV",
     "label": 7
   },
   {
     "video_id": "sign7_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/7/11.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/7/11.MOV",
     "label": 7
   },
   {
-    "video_id": "sign8_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/8/18.MOV",
+    "video_id": "sign7_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/7/12.MOV",
+    "label": 7
+  },
+  {
+    "video_id": "sign8_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/8/0.MOV",
     "label": 8
   },
   {
-    "video_id": "sign8_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/8/11.MOV",
+    "video_id": "sign8_vid4",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/8/4.MOV",
     "label": 8
   },
   {
-    "video_id": "sign8_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/8/3.MOV",
+    "video_id": "sign8_vid9",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/8/9.MOV",
     "label": 8
   },
   {
-    "video_id": "sign9_vid19",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/9/19.MOV",
+    "video_id": "sign9_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/9/0.MOV",
     "label": 9
   },
   {
     "video_id": "sign9_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/9/6.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/9/6.MOV",
     "label": 9
   },
   {
-    "video_id": "sign9_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/9/8.MOV",
+    "video_id": "sign9_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/9/12.MOV",
     "label": 9
   },
   {
-    "video_id": "sign10_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/10/7.MOV",
+    "video_id": "sign10_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/10/5.MOV",
     "label": 10
   },
   {
     "video_id": "sign10_vid14",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/10/14.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/10/14.MOV",
     "label": 10
   },
   {
-    "video_id": "sign10_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/10/0.MOV",
+    "video_id": "sign10_vid17",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/10/17.MOV",
     "label": 10
   },
   {
-    "video_id": "sign11_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/11/0.MOV",
+    "video_id": "sign11_vid19",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/11/19.MOV",
     "label": 11
   },
   {
-    "video_id": "sign11_vid4",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/11/4.MOV",
+    "video_id": "sign11_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/11/5.MOV",
     "label": 11
   },
   {
-    "video_id": "sign11_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/11/13.MOV",
+    "video_id": "sign11_vid20",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/11/20.MOV",
     "label": 11
   },
   {
-    "video_id": "sign12_vid5",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/12/5.MOV",
+    "video_id": "sign12_vid11",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/12/11.MOV",
     "label": 12
   },
   {
-    "video_id": "sign12_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/12/8.MOV",
+    "video_id": "sign12_vid13",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/12/13.MOV",
     "label": 12
   },
   {
-    "video_id": "sign12_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/12/3.MOV",
+    "video_id": "sign12_vid10",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/12/10.MOV",
     "label": 12
-  },
-  {
-    "video_id": "sign13_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/13/17.MOV",
-    "label": 13
   },
   {
     "video_id": "sign13_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/13/11.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/13/11.MOV",
     "label": 13
   },
   {
     "video_id": "sign13_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/13/8.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/13/8.MOV",
     "label": 13
   },
   {
-    "video_id": "sign14_vid5",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/14/5.MOV",
+    "video_id": "sign13_vid19",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/13/19.MOV",
+    "label": 13
+  },
+  {
+    "video_id": "sign14_vid20",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/14/20.MOV",
+    "label": 14
+  },
+  {
+    "video_id": "sign14_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/14/12.MOV",
     "label": 14
   },
   {
     "video_id": "sign14_vid4",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/14/4.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/14/4.MOV",
     "label": 14
-  },
-  {
-    "video_id": "sign14_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/14/13.MOV",
-    "label": 14
-  },
-  {
-    "video_id": "sign15_vid4",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/15/4.MOV",
-    "label": 15
   },
   {
     "video_id": "sign15_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/15/12.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/15/12.MOV",
     "label": 15
   },
   {
     "video_id": "sign15_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/15/9.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/15/9.MOV",
     "label": 15
   },
   {
-    "video_id": "sign16_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/16/16.MOV",
-    "label": 16
+    "video_id": "sign15_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/15/5.MOV",
+    "label": 15
   },
   {
     "video_id": "sign16_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/16/6.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/16/6.MOV",
     "label": 16
   },
   {
-    "video_id": "sign16_vid20",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/16/20.MOV",
+    "video_id": "sign16_vid13",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/16/13.MOV",
     "label": 16
   },
   {
-    "video_id": "sign17_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/17/10.MOV",
+    "video_id": "sign16_vid11",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/16/11.MOV",
+    "label": 16
+  },
+  {
+    "video_id": "sign17_vid17",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/17/17.MOV",
     "label": 17
   },
   {
-    "video_id": "sign17_vid4",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/17/4.MOV",
+    "video_id": "sign17_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/17/7.MOV",
     "label": 17
   },
   {
-    "video_id": "sign17_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/17/18.MOV",
+    "video_id": "sign17_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/17/0.MOV",
     "label": 17
   },
   {
-    "video_id": "sign18_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/18/11.MOV",
+    "video_id": "sign18_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/18/8.MOV",
     "label": 18
   },
   {
-    "video_id": "sign18_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/18/18.MOV",
+    "video_id": "sign18_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/18/12.MOV",
     "label": 18
   },
   {
-    "video_id": "sign18_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/18/3.MOV",
+    "video_id": "sign18_vid2",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/18/2.MOV",
     "label": 18
+  },
+  {
+    "video_id": "sign19_vid15",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/19/15.MOV",
+    "label": 19
+  },
+  {
+    "video_id": "sign19_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/19/14.MOV",
+    "label": 19
   },
   {
     "video_id": "sign19_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/19/18.MOV",
-    "label": 19
-  },
-  {
-    "video_id": "sign19_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/19/17.MOV",
-    "label": 19
-  },
-  {
-    "video_id": "sign19_vid2",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/19/2.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/19/18.MOV",
     "label": 19
   },
   {
     "video_id": "sign20_vid2",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/20/2.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/20/2.MOV",
     "label": 20
   },
   {
-    "video_id": "sign20_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/20/17.MOV",
+    "video_id": "sign20_vid9",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/20/9.MOV",
     "label": 20
   },
   {
-    "video_id": "sign20_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/20/18.MOV",
+    "video_id": "sign20_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/20/0.MOV",
     "label": 20
+  },
+  {
+    "video_id": "sign21_vid13",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/21/13.MOV",
+    "label": 21
   },
   {
     "video_id": "sign21_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/21/8.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/21/8.MOV",
     "label": 21
   },
   {
-    "video_id": "sign21_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/21/16.MOV",
+    "video_id": "sign21_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/21/7.MOV",
     "label": 21
-  },
-  {
-    "video_id": "sign21_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/21/18.MOV",
-    "label": 21
-  },
-  {
-    "video_id": "sign22_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/22/7.MOV",
-    "label": 22
-  },
-  {
-    "video_id": "sign22_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/22/6.MOV",
-    "label": 22
   },
   {
     "video_id": "sign22_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/22/8.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/22/8.MOV",
     "label": 22
   },
   {
-    "video_id": "sign23_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/23/0.MOV",
-    "label": 23
+    "video_id": "sign22_vid17",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/22/17.MOV",
+    "label": 22
+  },
+  {
+    "video_id": "sign22_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/22/5.MOV",
+    "label": 22
   },
   {
     "video_id": "sign23_vid14",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/23/14.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/23/14.MOV",
     "label": 23
   },
   {
-    "video_id": "sign23_vid5",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/23/5.MOV",
+    "video_id": "sign23_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/23/8.MOV",
     "label": 23
   },
   {
-    "video_id": "sign24_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/24/0.MOV",
-    "label": 24
+    "video_id": "sign23_vid4",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/23/4.MOV",
+    "label": 23
   },
   {
     "video_id": "sign24_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/24/7.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/24/7.MOV",
     "label": 24
   },
   {
     "video_id": "sign24_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/24/13.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/24/13.MOV",
     "label": 24
   },
   {
-    "video_id": "sign25_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/25/3.MOV",
-    "label": 25
-  },
-  {
-    "video_id": "sign25_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/25/9.MOV",
-    "label": 25
+    "video_id": "sign24_vid15",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/24/15.MOV",
+    "label": 24
   },
   {
     "video_id": "sign25_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/25/13.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/25/13.MOV",
     "label": 25
   },
   {
-    "video_id": "sign26_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/26/3.MOV",
+    "video_id": "sign25_vid19",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/25/19.MOV",
+    "label": 25
+  },
+  {
+    "video_id": "sign25_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/25/5.MOV",
+    "label": 25
+  },
+  {
+    "video_id": "sign26_vid4",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/26/4.MOV",
     "label": 26
   },
   {
-    "video_id": "sign26_vid20",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/26/20.MOV",
+    "video_id": "sign26_vid6",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/26/6.MOV",
     "label": 26
   },
   {
-    "video_id": "sign26_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/26/12.MOV",
+    "video_id": "sign26_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/26/8.MOV",
     "label": 26
   },
   {
-    "video_id": "sign27_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/27/12.MOV",
+    "video_id": "sign27_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/27/1.MOV",
     "label": 27
   },
   {
-    "video_id": "sign27_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/27/8.MOV",
+    "video_id": "sign27_vid18",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/27/18.MOV",
     "label": 27
   },
   {
-    "video_id": "sign27_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/27/17.MOV",
+    "video_id": "sign27_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/27/14.MOV",
     "label": 27
   },
   {
-    "video_id": "sign28_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/28/6.MOV",
+    "video_id": "sign28_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/28/8.MOV",
     "label": 28
   },
   {
-    "video_id": "sign28_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/28/10.MOV",
+    "video_id": "sign28_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/28/0.MOV",
     "label": 28
   },
   {
-    "video_id": "sign28_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/28/13.MOV",
+    "video_id": "sign28_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/28/12.MOV",
     "label": 28
   },
   {
-    "video_id": "sign29_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/29/17.MOV",
+    "video_id": "sign29_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/29/14.MOV",
+    "label": 29
+  },
+  {
+    "video_id": "sign29_vid11",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/29/11.MOV",
     "label": 29
   },
   {
     "video_id": "sign29_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/29/0.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/29/0.MOV",
     "label": 29
   },
   {
-    "video_id": "sign29_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/29/12.MOV",
-    "label": 29
-  },
-  {
-    "video_id": "sign30_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/30/10.MOV",
+    "video_id": "sign30_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/30/1.MOV",
     "label": 30
   },
   {
-    "video_id": "sign30_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/30/8.MOV",
+    "video_id": "sign30_vid13",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/30/13.MOV",
     "label": 30
   },
   {
-    "video_id": "sign30_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/30/9.MOV",
+    "video_id": "sign30_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/30/14.MOV",
     "label": 30
   },
   {
-    "video_id": "sign31_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/31/9.MOV",
+    "video_id": "sign31_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/31/14.MOV",
     "label": 31
   },
   {
     "video_id": "sign31_vid5",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/31/5.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/31/5.MOV",
     "label": 31
   },
   {
-    "video_id": "sign32_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/32/9.MOV",
+    "video_id": "sign32_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/32/12.MOV",
     "label": 32
   },
   {
-    "video_id": "sign32_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/32/3.MOV",
+    "video_id": "sign32_vid16",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/32/16.MOV",
     "label": 32
   },
   {
-    "video_id": "sign32_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/32/18.MOV",
+    "video_id": "sign32_vid17",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/32/17.MOV",
     "label": 32
   },
   {
-    "video_id": "sign33_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/33/18.MOV",
+    "video_id": "sign33_vid16",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/33/16.MOV",
     "label": 33
   },
   {
-    "video_id": "sign33_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/33/12.MOV",
+    "video_id": "sign33_vid3",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/33/3.MOV",
     "label": 33
   },
   {
-    "video_id": "sign33_vid15",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/33/15.MOV",
+    "video_id": "sign33_vid19",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/33/19.MOV",
     "label": 33
   },
   {
-    "video_id": "sign34_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/34/7.MOV",
+    "video_id": "sign34_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/34/0.MOV",
     "label": 34
   },
   {
-    "video_id": "sign34_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/34/17.MOV",
+    "video_id": "sign34_vid20",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/34/20.MOV",
     "label": 34
   },
   {
-    "video_id": "sign34_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/34/3.MOV",
+    "video_id": "sign34_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/34/14.MOV",
     "label": 34
   },
   {
-    "video_id": "sign35_vid19",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/35/19.MOV",
+    "video_id": "sign35_vid9",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/35/9.MOV",
     "label": 35
   },
   {
-    "video_id": "sign35_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/35/0.MOV",
+    "video_id": "sign35_vid3",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/35/3.MOV",
     "label": 35
   },
   {
-    "video_id": "sign35_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/35/11.MOV",
+    "video_id": "sign35_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/35/7.MOV",
     "label": 35
   },
   {
-    "video_id": "sign36_vid5",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/36/5.MOV",
+    "video_id": "sign36_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/36/1.MOV",
     "label": 36
   },
   {
     "video_id": "sign36_vid2",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/36/2.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/36/2.MOV",
     "label": 36
   },
   {
-    "video_id": "sign36_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/36/0.MOV",
+    "video_id": "sign36_vid19",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/36/19.MOV",
     "label": 36
   },
   {
-    "video_id": "sign37_vid20",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/37/20.MOV",
+    "video_id": "sign37_vid21",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/37/21.MOV",
     "label": 37
   },
   {
-    "video_id": "sign37_vid4",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/37/4.MOV",
+    "video_id": "sign37_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/37/12.MOV",
     "label": 37
   },
   {
-    "video_id": "sign37_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/37/1.MOV",
+    "video_id": "sign37_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/37/0.MOV",
     "label": 37
   },
   {
-    "video_id": "sign38_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/38/1.MOV",
-    "label": 38
-  },
-  {
-    "video_id": "sign38_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/38/8.MOV",
+    "video_id": "sign38_vid10",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/38/10.MOV",
     "label": 38
   },
   {
     "video_id": "sign38_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/38/17.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/38/17.MOV",
     "label": 38
   },
   {
-    "video_id": "sign39_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/39/12.MOV",
+    "video_id": "sign38_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/38/1.MOV",
+    "label": 38
+  },
+  {
+    "video_id": "sign39_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/39/7.MOV",
     "label": 39
   },
   {
-    "video_id": "sign39_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/39/16.MOV",
+    "video_id": "sign39_vid19",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/39/19.MOV",
     "label": 39
   },
   {
-    "video_id": "sign39_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/39/9.MOV",
+    "video_id": "sign39_vid11",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/39/11.MOV",
     "label": 39
   },
   {
-    "video_id": "sign40_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/40/8.MOV",
+    "video_id": "sign40_vid20",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/40/20.MOV",
     "label": 40
   },
   {
-    "video_id": "sign40_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/40/1.MOV",
+    "video_id": "sign40_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/40/7.MOV",
     "label": 40
   },
   {
-    "video_id": "sign40_vid14",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/40/14.MOV",
+    "video_id": "sign40_vid10",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/40/10.MOV",
     "label": 40
-  },
-  {
-    "video_id": "sign41_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/41/17.MOV",
-    "label": 41
   },
   {
     "video_id": "sign41_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/41/18.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/41/18.MOV",
     "label": 41
   },
   {
-    "video_id": "sign41_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/41/9.MOV",
+    "video_id": "sign41_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/41/0.MOV",
     "label": 41
   },
   {
-    "video_id": "sign42_vid19",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/42/19.MOV",
+    "video_id": "sign41_vid6",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/41/6.MOV",
+    "label": 41
+  },
+  {
+    "video_id": "sign42_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/42/5.MOV",
     "label": 42
   },
   {
-    "video_id": "sign42_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/42/16.MOV",
+    "video_id": "sign42_vid3",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/42/3.MOV",
     "label": 42
   },
   {
-    "video_id": "sign42_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/42/9.MOV",
+    "video_id": "sign42_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/42/8.MOV",
     "label": 42
   },
   {
-    "video_id": "sign43_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/43/17.MOV",
+    "video_id": "sign43_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/43/8.MOV",
     "label": 43
   },
   {
-    "video_id": "sign43_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/43/13.MOV",
+    "video_id": "sign43_vid11",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/43/11.MOV",
     "label": 43
   },
   {
-    "video_id": "sign43_vid15",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/43/15.MOV",
+    "video_id": "sign43_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/43/0.MOV",
     "label": 43
   },
   {
-    "video_id": "sign44_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/44/1.MOV",
+    "video_id": "sign44_vid2",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/44/2.MOV",
     "label": 44
   },
   {
-    "video_id": "sign44_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/44/17.MOV",
+    "video_id": "sign44_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/44/7.MOV",
     "label": 44
   },
   {
-    "video_id": "sign44_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/44/6.MOV",
+    "video_id": "sign44_vid11",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/44/11.MOV",
     "label": 44
   },
   {
-    "video_id": "sign45_vid15",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/45/15.MOV",
+    "video_id": "sign45_vid9",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/45/9.MOV",
     "label": 45
   },
   {
-    "video_id": "sign45_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/45/17.MOV",
+    "video_id": "sign45_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/45/7.MOV",
     "label": 45
   },
   {
-    "video_id": "sign45_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/45/3.MOV",
+    "video_id": "sign45_vid6",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/45/6.MOV",
     "label": 45
   },
   {
-    "video_id": "sign46_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/46/18.MOV",
+    "video_id": "sign46_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/46/1.MOV",
     "label": 46
   },
   {
-    "video_id": "sign46_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/46/16.MOV",
+    "video_id": "sign46_vid9",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/46/9.MOV",
     "label": 46
   },
   {
-    "video_id": "sign46_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/46/10.MOV",
+    "video_id": "sign46_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/46/14.MOV",
     "label": 46
+  },
+  {
+    "video_id": "sign47_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/47/5.MOV",
+    "label": 47
+  },
+  {
+    "video_id": "sign47_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/47/7.MOV",
+    "label": 47
   },
   {
     "video_id": "sign47_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/47/17.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/47/17.MOV",
     "label": 47
   },
   {
-    "video_id": "sign47_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/47/3.MOV",
-    "label": 47
-  },
-  {
-    "video_id": "sign47_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/47/1.MOV",
-    "label": 47
-  },
-  {
-    "video_id": "sign48_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/48/18.MOV",
+    "video_id": "sign48_vid19",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/48/19.MOV",
     "label": 48
   },
   {
-    "video_id": "sign48_vid4",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/48/4.MOV",
+    "video_id": "sign48_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/48/5.MOV",
     "label": 48
   },
   {
-    "video_id": "sign48_vid14",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/48/14.MOV",
+    "video_id": "sign48_vid3",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/48/3.MOV",
     "label": 48
   },
   {
-    "video_id": "sign49_vid15",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/49/15.MOV",
-    "label": 49
-  },
-  {
-    "video_id": "sign49_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/49/9.MOV",
+    "video_id": "sign49_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/49/12.MOV",
     "label": 49
   },
   {
     "video_id": "sign49_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/49/10.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/49/10.MOV",
     "label": 49
   },
   {
-    "video_id": "sign50_vid2",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/50/2.MOV",
+    "video_id": "sign49_vid13",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/49/13.MOV",
+    "label": 49
+  },
+  {
+    "video_id": "sign50_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/50/0.MOV",
     "label": 50
   },
   {
-    "video_id": "sign50_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/50/16.MOV",
+    "video_id": "sign50_vid4",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/50/4.MOV",
     "label": 50
   },
   {
-    "video_id": "sign50_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/50/11.MOV",
+    "video_id": "sign50_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/50/1.MOV",
     "label": 50
-  },
-  {
-    "video_id": "sign51_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/51/12.MOV",
-    "label": 51
-  },
-  {
-    "video_id": "sign51_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/51/11.MOV",
-    "label": 51
   },
   {
     "video_id": "sign51_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/51/10.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/51/10.MOV",
     "label": 51
   },
   {
-    "video_id": "sign52_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/52/3.MOV",
+    "video_id": "sign51_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/51/5.MOV",
+    "label": 51
+  },
+  {
+    "video_id": "sign51_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/51/0.MOV",
+    "label": 51
+  },
+  {
+    "video_id": "sign52_vid13",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/52/13.MOV",
     "label": 52
   },
   {
-    "video_id": "sign52_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/52/6.MOV",
+    "video_id": "sign52_vid2",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/52/2.MOV",
     "label": 52
   },
   {
-    "video_id": "sign52_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/52/17.MOV",
+    "video_id": "sign52_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/52/5.MOV",
     "label": 52
   },
   {
-    "video_id": "sign53_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/53/11.MOV",
+    "video_id": "sign53_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/53/0.MOV",
     "label": 53
   },
   {
-    "video_id": "sign53_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/53/9.MOV",
+    "video_id": "sign53_vid2",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/53/2.MOV",
     "label": 53
   },
   {
-    "video_id": "sign53_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/53/12.MOV",
+    "video_id": "sign53_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/53/5.MOV",
     "label": 53
   },
   {
-    "video_id": "sign54_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/54/10.MOV",
+    "video_id": "sign54_vid16",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/54/16.MOV",
     "label": 54
   },
   {
-    "video_id": "sign54_vid15",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/54/15.MOV",
+    "video_id": "sign54_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/54/14.MOV",
     "label": 54
   },
   {
-    "video_id": "sign54_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/54/9.MOV",
+    "video_id": "sign54_vid6",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/54/6.MOV",
     "label": 54
   },
   {
-    "video_id": "sign55_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/55/16.MOV",
-    "label": 55
-  },
-  {
-    "video_id": "sign55_vid19",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/55/19.MOV",
+    "video_id": "sign55_vid18",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/55/18.MOV",
     "label": 55
   },
   {
     "video_id": "sign55_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/55/9.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/55/9.MOV",
     "label": 55
   },
   {
-    "video_id": "sign56_vid14",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/56/14.MOV",
+    "video_id": "sign55_vid15",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/55/15.MOV",
+    "label": 55
+  },
+  {
+    "video_id": "sign56_vid16",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/56/16.MOV",
     "label": 56
   },
   {
-    "video_id": "sign56_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/56/3.MOV",
+    "video_id": "sign56_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/56/12.MOV",
     "label": 56
-  },
-  {
-    "video_id": "sign57_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/57/0.MOV",
-    "label": 57
-  },
-  {
-    "video_id": "sign57_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/57/17.MOV",
-    "label": 57
   },
   {
     "video_id": "sign57_vid19",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/57/19.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/57/19.MOV",
     "label": 57
   },
   {
-    "video_id": "sign58_vid2",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/58/2.MOV",
+    "video_id": "sign57_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/57/14.MOV",
+    "label": 57
+  },
+  {
+    "video_id": "sign57_vid9",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/57/9.MOV",
+    "label": 57
+  },
+  {
+    "video_id": "sign58_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/58/7.MOV",
     "label": 58
   },
   {
-    "video_id": "sign58_vid15",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/58/15.MOV",
+    "video_id": "sign58_vid18",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/58/18.MOV",
     "label": 58
   },
   {
-    "video_id": "sign58_vid19",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/58/19.MOV",
+    "video_id": "sign58_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/58/5.MOV",
     "label": 58
   },
   {
-    "video_id": "sign59_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/59/9.MOV",
+    "video_id": "sign59_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/59/12.MOV",
     "label": 59
   },
   {
-    "video_id": "sign59_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/59/3.MOV",
+    "video_id": "sign59_vid15",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/59/15.MOV",
     "label": 59
   },
   {
-    "video_id": "sign59_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/59/0.MOV",
+    "video_id": "sign59_vid6",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/59/6.MOV",
     "label": 59
   },
   {
     "video_id": "sign60_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/60/0.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/60/0.MOV",
     "label": 60
   },
   {
-    "video_id": "sign60_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/60/10.MOV",
+    "video_id": "sign60_vid6",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/60/6.MOV",
     "label": 60
   },
   {
-    "video_id": "sign60_vid15",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/60/15.MOV",
+    "video_id": "sign60_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/60/7.MOV",
     "label": 60
   },
   {
-    "video_id": "sign61_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/61/3.MOV",
+    "video_id": "sign61_vid18",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/61/18.MOV",
     "label": 61
   },
   {
-    "video_id": "sign61_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/61/6.MOV",
+    "video_id": "sign61_vid11",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/61/11.MOV",
     "label": 61
   },
   {
-    "video_id": "sign61_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/61/12.MOV",
+    "video_id": "sign61_vid10",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/61/10.MOV",
     "label": 61
   },
   {
-    "video_id": "sign62_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/62/0.MOV",
+    "video_id": "sign62_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/62/5.MOV",
     "label": 62
   },
   {
-    "video_id": "sign62_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/62/16.MOV",
+    "video_id": "sign62_vid9",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/62/9.MOV",
     "label": 62
   },
   {
-    "video_id": "sign62_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/62/18.MOV",
+    "video_id": "sign62_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/62/8.MOV",
     "label": 62
   },
   {
-    "video_id": "sign63_vid19",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/63/19.MOV",
+    "video_id": "sign63_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/63/7.MOV",
     "label": 63
   },
   {
-    "video_id": "sign63_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/63/16.MOV",
+    "video_id": "sign63_vid3",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/63/3.MOV",
     "label": 63
   },
   {
-    "video_id": "sign63_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/63/6.MOV",
+    "video_id": "sign63_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/63/12.MOV",
     "label": 63
+  },
+  {
+    "video_id": "sign64_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/64/5.MOV",
+    "label": 64
+  },
+  {
+    "video_id": "sign64_vid13",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/64/13.MOV",
+    "label": 64
   },
   {
     "video_id": "sign64_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/64/17.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/64/17.MOV",
     "label": 64
   },
   {
-    "video_id": "sign64_vid15",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/64/15.MOV",
-    "label": 64
-  },
-  {
-    "video_id": "sign64_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/64/16.MOV",
-    "label": 64
-  },
-  {
-    "video_id": "sign65_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/65/11.MOV",
+    "video_id": "sign65_vid2",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/65/2.MOV",
     "label": 65
   },
   {
-    "video_id": "sign65_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/65/12.MOV",
+    "video_id": "sign65_vid15",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/65/15.MOV",
     "label": 65
   },
   {
-    "video_id": "sign65_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/65/16.MOV",
+    "video_id": "sign65_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/65/1.MOV",
     "label": 65
   },
   {
-    "video_id": "sign66_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/66/1.MOV",
+    "video_id": "sign66_vid2",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/66/2.MOV",
     "label": 66
   },
   {
-    "video_id": "sign66_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/66/7.MOV",
+    "video_id": "sign66_vid18",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/66/18.MOV",
     "label": 66
   },
   {
-    "video_id": "sign66_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/66/13.MOV",
+    "video_id": "sign66_vid6",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/66/6.MOV",
     "label": 66
   },
   {
-    "video_id": "sign67_vid19",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/67/19.MOV",
+    "video_id": "sign67_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/67/1.MOV",
     "label": 67
   },
   {
-    "video_id": "sign67_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/67/16.MOV",
+    "video_id": "sign67_vid17",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/67/17.MOV",
     "label": 67
   },
   {
-    "video_id": "sign67_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/67/8.MOV",
+    "video_id": "sign67_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/67/5.MOV",
     "label": 67
   },
   {
-    "video_id": "sign68_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/68/18.MOV",
+    "video_id": "sign68_vid16",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/68/16.MOV",
     "label": 68
   },
   {
-    "video_id": "sign68_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/68/11.MOV",
+    "video_id": "sign68_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/68/5.MOV",
     "label": 68
   },
   {
-    "video_id": "sign68_vid2",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/68/2.MOV",
+    "video_id": "sign68_vid6",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/68/6.MOV",
     "label": 68
   },
   {
-    "video_id": "sign69_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/69/1.MOV",
+    "video_id": "sign69_vid10",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/69/10.MOV",
+    "label": 69
+  },
+  {
+    "video_id": "sign69_vid18",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/69/18.MOV",
     "label": 69
   },
   {
     "video_id": "sign69_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/69/8.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/69/8.MOV",
     "label": 69
   },
   {
-    "video_id": "sign69_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/69/7.MOV",
-    "label": 69
-  },
-  {
-    "video_id": "sign70_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/70/13.MOV",
-    "label": 70
-  },
-  {
-    "video_id": "sign70_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/70/16.MOV",
+    "video_id": "sign70_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/70/1.MOV",
     "label": 70
   },
   {
     "video_id": "sign70_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/70/10.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/70/10.MOV",
     "label": 70
   },
   {
-    "video_id": "sign71_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/71/3.MOV",
+    "video_id": "sign70_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/70/8.MOV",
+    "label": 70
+  },
+  {
+    "video_id": "sign71_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/71/1.MOV",
     "label": 71
   },
   {
     "video_id": "sign71_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/71/0.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/71/0.MOV",
     "label": 71
   },
   {
-    "video_id": "sign71_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/71/6.MOV",
+    "video_id": "sign71_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/71/7.MOV",
     "label": 71
   },
   {
-    "video_id": "sign72_vid15",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/72/15.MOV",
+    "video_id": "sign72_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/72/5.MOV",
     "label": 72
   },
   {
-    "video_id": "sign72_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/72/6.MOV",
+    "video_id": "sign72_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/72/14.MOV",
     "label": 72
   },
   {
-    "video_id": "sign72_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/72/7.MOV",
+    "video_id": "sign72_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/72/0.MOV",
     "label": 72
   },
   {
-    "video_id": "sign73_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/73/17.MOV",
+    "video_id": "sign73_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/73/8.MOV",
     "label": 73
   },
   {
-    "video_id": "sign73_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/73/13.MOV",
+    "video_id": "sign73_vid19",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/73/19.MOV",
     "label": 73
   },
   {
     "video_id": "sign73_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/73/9.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/73/9.MOV",
     "label": 73
   },
   {
-    "video_id": "sign74_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/74/18.MOV",
-    "label": 74
-  },
-  {
-    "video_id": "sign74_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/74/0.MOV",
-    "label": 74
-  },
-  {
     "video_id": "sign74_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/74/12.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/74/12.MOV",
     "label": 74
   },
   {
-    "video_id": "sign75_vid5",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/75/5.MOV",
+    "video_id": "sign74_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/74/14.MOV",
+    "label": 74
+  },
+  {
+    "video_id": "sign74_vid17",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/74/17.MOV",
+    "label": 74
+  },
+  {
+    "video_id": "sign75_vid3",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/75/3.MOV",
     "label": 75
   },
   {
     "video_id": "sign75_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/75/1.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/75/1.MOV",
     "label": 75
   },
   {
-    "video_id": "sign75_vid14",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/75/14.MOV",
+    "video_id": "sign75_vid2",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/75/2.MOV",
     "label": 75
   },
   {
-    "video_id": "sign76_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/76/7.MOV",
+    "video_id": "sign76_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/76/0.MOV",
     "label": 76
   },
   {
-    "video_id": "sign76_vid14",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/76/14.MOV",
+    "video_id": "sign76_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/76/12.MOV",
     "label": 76
   },
   {
-    "video_id": "sign76_vid2",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/76/2.MOV",
+    "video_id": "sign76_vid17",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/76/17.MOV",
     "label": 76
+  },
+  {
+    "video_id": "sign77_vid17",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/77/17.MOV",
+    "label": 77
   },
   {
     "video_id": "sign77_vid2",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/77/2.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/77/2.MOV",
     "label": 77
   },
   {
-    "video_id": "sign77_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/77/13.MOV",
+    "video_id": "sign77_vid9",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/77/9.MOV",
     "label": 77
   },
   {
-    "video_id": "sign77_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/77/3.MOV",
-    "label": 77
-  },
-  {
-    "video_id": "sign78_vid14",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/78/14.MOV",
+    "video_id": "sign78_vid4",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/78/4.MOV",
     "label": 78
   },
   {
-    "video_id": "sign78_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/78/10.MOV",
+    "video_id": "sign78_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/78/0.MOV",
     "label": 78
   },
   {
-    "video_id": "sign78_vid2",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/78/2.MOV",
+    "video_id": "sign78_vid6",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/78/6.MOV",
     "label": 78
   },
   {
-    "video_id": "sign79_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/79/0.MOV",
+    "video_id": "sign79_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/79/12.MOV",
     "label": 79
   },
   {
-    "video_id": "sign79_vid15",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/79/15.MOV",
+    "video_id": "sign79_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/79/1.MOV",
     "label": 79
   },
   {
-    "video_id": "sign79_vid5",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/79/5.MOV",
+    "video_id": "sign79_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/79/7.MOV",
     "label": 79
   },
   {
-    "video_id": "sign80_vid4",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/80/4.MOV",
+    "video_id": "sign80_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/80/7.MOV",
     "label": 80
   },
   {
     "video_id": "sign80_vid5",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/80/5.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/80/5.MOV",
     "label": 80
   },
   {
-    "video_id": "sign80_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/80/10.MOV",
+    "video_id": "sign80_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/80/14.MOV",
     "label": 80
+  },
+  {
+    "video_id": "sign81_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/81/1.MOV",
+    "label": 81
   },
   {
     "video_id": "sign81_vid19",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/81/19.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/81/19.MOV",
     "label": 81
   },
   {
-    "video_id": "sign81_vid15",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/81/15.MOV",
+    "video_id": "sign81_vid9",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/81/9.MOV",
     "label": 81
   },
   {
-    "video_id": "sign81_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/81/13.MOV",
-    "label": 81
-  },
-  {
-    "video_id": "sign82_vid15",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/82/15.MOV",
+    "video_id": "sign82_vid17",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/82/17.MOV",
     "label": 82
   },
   {
-    "video_id": "sign82_vid14",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/82/14.MOV",
+    "video_id": "sign82_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/82/7.MOV",
     "label": 82
   },
   {
     "video_id": "sign82_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/82/12.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/82/12.MOV",
     "label": 82
   },
   {
-    "video_id": "sign83_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/83/7.MOV",
+    "video_id": "sign83_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/83/0.MOV",
     "label": 83
   },
   {
-    "video_id": "sign83_vid14",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/83/14.MOV",
+    "video_id": "sign83_vid10",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/83/10.MOV",
     "label": 83
   },
   {
-    "video_id": "sign83_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/83/11.MOV",
+    "video_id": "sign83_vid2",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/83/2.MOV",
     "label": 83
   },
   {
-    "video_id": "sign84_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/84/12.MOV",
+    "video_id": "sign84_vid11",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/84/11.MOV",
+    "label": 84
+  },
+  {
+    "video_id": "sign84_vid2",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/84/2.MOV",
     "label": 84
   },
   {
     "video_id": "sign84_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/84/18.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/84/18.MOV",
     "label": 84
   },
   {
-    "video_id": "sign84_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/84/10.MOV",
-    "label": 84
-  },
-  {
-    "video_id": "sign85_vid14",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/85/14.MOV",
+    "video_id": "sign85_vid19",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/85/19.MOV",
     "label": 85
   },
   {
-    "video_id": "sign85_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/85/18.MOV",
+    "video_id": "sign85_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/85/0.MOV",
     "label": 85
   },
   {
-    "video_id": "sign85_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/85/13.MOV",
+    "video_id": "sign85_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/85/1.MOV",
     "label": 85
   },
   {
-    "video_id": "sign86_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/86/18.MOV",
-    "label": 86
-  },
-  {
-    "video_id": "sign86_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/86/10.MOV",
+    "video_id": "sign86_vid15",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/86/15.MOV",
     "label": 86
   },
   {
     "video_id": "sign86_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/86/1.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/86/1.MOV",
     "label": 86
   },
   {
-    "video_id": "sign87_vid4",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/87/4.MOV",
+    "video_id": "sign86_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/86/8.MOV",
+    "label": 86
+  },
+  {
+    "video_id": "sign87_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/87/7.MOV",
     "label": 87
   },
   {
-    "video_id": "sign87_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/87/6.MOV",
+    "video_id": "sign87_vid18",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/87/18.MOV",
     "label": 87
   },
   {
-    "video_id": "sign87_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/87/11.MOV",
+    "video_id": "sign87_vid15",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/87/15.MOV",
     "label": 87
   },
   {
-    "video_id": "sign88_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/88/1.MOV",
+    "video_id": "sign88_vid4",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/88/4.MOV",
+    "label": 88
+  },
+  {
+    "video_id": "sign88_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/88/0.MOV",
     "label": 88
   },
   {
     "video_id": "sign88_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/88/16.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/88/16.MOV",
     "label": 88
-  },
-  {
-    "video_id": "sign88_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/88/12.MOV",
-    "label": 88
-  },
-  {
-    "video_id": "sign89_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/89/3.MOV",
-    "label": 89
-  },
-  {
-    "video_id": "sign89_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/89/1.MOV",
-    "label": 89
   },
   {
     "video_id": "sign89_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/89/16.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/89/16.MOV",
     "label": 89
   },
   {
-    "video_id": "sign90_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/90/3.MOV",
+    "video_id": "sign89_vid17",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/89/17.MOV",
+    "label": 89
+  },
+  {
+    "video_id": "sign89_vid19",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/89/19.MOV",
+    "label": 89
+  },
+  {
+    "video_id": "sign90_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/90/8.MOV",
     "label": 90
   },
   {
-    "video_id": "sign90_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/90/7.MOV",
+    "video_id": "sign90_vid2",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/90/2.MOV",
     "label": 90
   },
   {
-    "video_id": "sign90_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/90/13.MOV",
+    "video_id": "sign90_vid15",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/90/15.MOV",
     "label": 90
   },
   {
-    "video_id": "sign91_vid3",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/91/3.MOV",
+    "video_id": "sign91_vid9",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/91/9.MOV",
+    "label": 91
+  },
+  {
+    "video_id": "sign91_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/91/14.MOV",
     "label": 91
   },
   {
     "video_id": "sign91_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/91/7.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/91/7.MOV",
     "label": 91
   },
   {
-    "video_id": "sign91_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/91/0.MOV",
-    "label": 91
+    "video_id": "sign92_vid0",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/92/0.MOV",
+    "label": 92
+  },
+  {
+    "video_id": "sign92_vid17",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/92/17.MOV",
+    "label": 92
   },
   {
     "video_id": "sign92_vid8",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/92/8.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/92/8.MOV",
     "label": 92
   },
   {
-    "video_id": "sign92_vid2",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/92/2.MOV",
-    "label": 92
-  },
-  {
-    "video_id": "sign92_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/92/6.MOV",
-    "label": 92
-  },
-  {
-    "video_id": "sign93_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/93/12.MOV",
-    "label": 93
-  },
-  {
-    "video_id": "sign93_vid4",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/93/4.MOV",
+    "video_id": "sign93_vid17",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/93/17.MOV",
     "label": 93
   },
   {
     "video_id": "sign93_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/93/0.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/93/0.MOV",
     "label": 93
   },
   {
-    "video_id": "sign94_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/94/7.MOV",
+    "video_id": "sign93_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/93/1.MOV",
+    "label": 93
+  },
+  {
+    "video_id": "sign94_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/94/12.MOV",
     "label": 94
   },
   {
-    "video_id": "sign94_vid6",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/94/6.MOV",
+    "video_id": "sign94_vid2",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/94/2.MOV",
     "label": 94
   },
   {
-    "video_id": "sign94_vid17",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/94/17.MOV",
+    "video_id": "sign94_vid3",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/94/3.MOV",
     "label": 94
   },
   {
-    "video_id": "sign95_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/95/16.MOV",
+    "video_id": "sign95_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/95/1.MOV",
     "label": 95
   },
   {
-    "video_id": "sign95_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/95/13.MOV",
+    "video_id": "sign95_vid11",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/95/11.MOV",
     "label": 95
   },
   {
     "video_id": "sign95_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/95/18.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/95/18.MOV",
     "label": 95
   },
   {
-    "video_id": "sign96_vid19",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/96/19.MOV",
+    "video_id": "sign96_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/96/8.MOV",
     "label": 96
   },
   {
     "video_id": "sign96_vid9",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/96/9.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/96/9.MOV",
     "label": 96
   },
   {
-    "video_id": "sign96_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/96/11.MOV",
+    "video_id": "sign96_vid15",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/96/15.MOV",
     "label": 96
   },
   {
-    "video_id": "sign97_vid2",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/97/2.MOV",
+    "video_id": "sign97_vid9",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/97/9.MOV",
     "label": 97
   },
   {
-    "video_id": "sign97_vid5",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/97/5.MOV",
+    "video_id": "sign97_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/97/14.MOV",
     "label": 97
   },
   {
-    "video_id": "sign97_vid19",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/97/19.MOV",
+    "video_id": "sign97_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/97/12.MOV",
     "label": 97
   },
   {
-    "video_id": "sign98_vid5",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/98/5.MOV",
+    "video_id": "sign98_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/98/14.MOV",
     "label": 98
   },
   {
-    "video_id": "sign98_vid13",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/98/13.MOV",
+    "video_id": "sign98_vid16",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/98/16.MOV",
     "label": 98
   },
   {
-    "video_id": "sign98_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/98/0.MOV",
+    "video_id": "sign98_vid1",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/98/1.MOV",
     "label": 98
   },
   {
-    "video_id": "sign99_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/99/10.MOV",
+    "video_id": "sign99_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/99/8.MOV",
     "label": 99
   },
   {
-    "video_id": "sign99_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/99/12.MOV",
+    "video_id": "sign99_vid9",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/99/9.MOV",
     "label": 99
   },
   {
-    "video_id": "sign99_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/99/0.MOV",
+    "video_id": "sign99_vid19",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/99/19.MOV",
     "label": 99
   },
   {
-    "video_id": "sign100_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/100/1.MOV",
+    "video_id": "sign100_vid12",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/100/12.MOV",
     "label": 100
   },
   {
-    "video_id": "sign100_vid19",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/100/19.MOV",
+    "video_id": "sign100_vid4",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/100/4.MOV",
     "label": 100
   },
   {
-    "video_id": "sign100_vid18",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/100/18.MOV",
+    "video_id": "sign100_vid5",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/100/5.MOV",
     "label": 100
   },
   {
-    "video_id": "sign101_vid16",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/101/16.MOV",
-    "label": 101
-  },
-  {
-    "video_id": "sign101_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/101/12.MOV",
+    "video_id": "sign101_vid3",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/101/3.MOV",
     "label": 101
   },
   {
     "video_id": "sign101_vid5",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/101/5.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/101/5.MOV",
     "label": 101
   },
   {
-    "video_id": "sign102_vid4",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/102/4.MOV",
+    "video_id": "sign101_vid15",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/101/15.MOV",
+    "label": 101
+  },
+  {
+    "video_id": "sign102_vid15",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/102/15.MOV",
     "label": 102
   },
   {
-    "video_id": "sign102_vid10",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/102/10.MOV",
+    "video_id": "sign102_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/102/8.MOV",
     "label": 102
   },
   {
-    "video_id": "sign102_vid12",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/102/12.MOV",
+    "video_id": "sign102_vid7",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/102/7.MOV",
     "label": 102
   },
   {
-    "video_id": "sign103_vid0",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/103/0.MOV",
+    "video_id": "sign103_vid14",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/103/14.MOV",
+    "label": 103
+  },
+  {
+    "video_id": "sign103_vid6",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/103/6.MOV",
     "label": 103
   },
   {
     "video_id": "sign103_vid19",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/103/19.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/103/19.MOV",
     "label": 103
   },
   {
-    "video_id": "sign103_vid7",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/103/7.MOV",
-    "label": 103
-  },
-  {
-    "video_id": "sign104_vid11",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/104/11.MOV",
+    "video_id": "sign104_vid8",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/104/8.MOV",
     "label": 104
   },
   {
     "video_id": "sign104_vid1",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/104/1.MOV",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/104/1.MOV",
     "label": 104
   },
   {
-    "video_id": "sign104_vid5",
-    "video_path": "C:/Users/Althea/COLLEGE/THESIS/MVTN/src_mvtn/datasets/FSL105/104/5.MOV",
+    "video_id": "sign104_vid19",
+    "video_path": "C:/Users/Althea/COLLEGE/THESIS/Code/THESIS-MVTN/src_mvtn/datasets/FSL105/104/19.MOV",
     "label": 104
   }
 ]

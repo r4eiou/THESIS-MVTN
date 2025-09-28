@@ -2,8 +2,8 @@ import os
 import json
 import random
 
-# Root folder where videos are stored per sign
-root = r"C:\Users\Althea\COLLEGE\THESIS\MVTN\src_mvtn\datasets\FSL105"
+# Root folder where videos are stored per sign (change this path as needed)
+root = r"C:\Users\Althea\COLLEGE\THESIS\Code\THESIS-MVTN\src_mvtn\datasets\FSL105"
 output_dir = os.path.join(root, "splits")  # folder to save JSON files
 
 os.makedirs(output_dir, exist_ok=True)
