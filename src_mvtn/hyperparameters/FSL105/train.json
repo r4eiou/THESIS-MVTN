@@ -16,11 +16,11 @@
   "checkpoints": {
     "save_policy": "all",
     "save_name": "train_fsl105_rgb",
-    "save_dir": "./checkpoints/FSL105/train_fsl105_rgb/",
+    "save_dir": "./checkpoints/",
     "save_iters": 30,
     "tb_path": "train_log/FSL105"
   },
-  "resume": "./checkpoints/FSL105/train_fsl105_rgb/FSL105/train_fsl105_rgb_2.pth",
+  "resume": "./checkpoints/FSL105/train_fsl105_rgb_2.pth",
   "solver": {
     "type": "AdamW",
     "workers": 4,
