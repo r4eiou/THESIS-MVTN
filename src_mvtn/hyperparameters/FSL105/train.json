@@ -14,7 +14,7 @@
     "batch_size": 8
   },
   "checkpoints": {
-    "save_policy": "best",
+    "save_policy": "all",
     "save_name": "train_fsl105_rgb",
     "save_dir": "./checkpoints/FSL105/train_fsl105_rgb/",
     "save_iters": 30,

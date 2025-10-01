@@ -1,6 +1,7 @@
 # MVTN
 MVTN: A Multiscale Video Transformer Network for Hand Gesture Recognition
 
+
 ```
 Draft guide:
 src_mvtn/
@@ -70,9 +71,18 @@ src_mvtn/
 ├── main.py                           # Main pipeline (entry point; loads configs, datasets, model, training/testing)
 ├── train.py                          # For training
 ├── test.py                           # For testing
+├── Untitled.ipynb                    # idk
 
 
-Note: Not yet working but to run the program
+Note: working already (no data augmentation yet)
+
+TO DO: Fix data augmentation
+
+To run the program:
+[train] 
 python main.py --hypes hyperparameters/FSL105/train.json --phase train
+
+[evaluate] 
+python main.py --hypes hyperparameters/FSL105/test.json --phase test
 
 ```
