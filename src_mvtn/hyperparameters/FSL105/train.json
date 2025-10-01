@@ -18,7 +18,7 @@
     "save_name": "train_fsl105_rgb",
     "save_dir": "./checkpoints/",
     "save_iters": 30,
-    "tb_path": "train_log/FSL105"
+    "tb_path": "train_log/"
   },
   "resume": "./checkpoints/FSL105/train_fsl105_rgb_2.pth",
   "solver": {
