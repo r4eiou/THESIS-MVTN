@@ -296,27 +296,13 @@ class GestureTrainer(object):
         self.accuracy["test"].reset()
 
     def train(self):
-        # for n in range(self.configer.get("epochs")):
-        #     print("Starting epoch {}".format(self.epoch + 1))
-        #     self.__train()
-        #     ret = self.__val()
-        #     if ret < 0:
-        #         print("Got no improvement for {} epochs, current epoch is {}."
-        #               .format(self.configer.get("checkpoints", "early_stop"), n))
-        #         break
-        #     self.epoch += 1
-
-        # testing
-        start_epoch = self.epoch
-        total_epochs = self.configer.get("epochs")
-
-        for n in range(start_epoch, total_epochs):
+        for n in range(self.configer.get("epochs")):
             print("Starting epoch {}".format(self.epoch + 1))
             self.__train()
             ret = self.__val()
             if ret < 0:
                 print("Got no improvement for {} epochs, current epoch is {}."
-                    .format(self.configer.get("checkpoints", "early_stop"), self.epoch))
+                      .format(self.configer.get("checkpoints", "early_stop"), n))
                 break
             self.epoch += 1
 
