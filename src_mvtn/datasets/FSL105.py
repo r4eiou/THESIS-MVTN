@@ -5,6 +5,7 @@ import cv2
 import numpy as np
 from pathlib import Path
 from torch.utils.data.dataset import Dataset
+from imgaug import augmenters as iaa
 import json
 
 class FSL105(Dataset):
@@ -17,6 +18,22 @@ class FSL105(Dataset):
         self.data_type = data_type
         self.transforms = transforms
         self.n_frames = n_frames
+
+        # If no transform is provided, define a default augmentation (for training)
+        if self.transforms is None and split == "train":
+            self.transforms = iaa.Sequential([
+                iaa.Multiply((0.8, 1.2)),                           # brightness variation
+                iaa.LinearContrast((0.75, 1.25)),                   # contrast variation
+                iaa.Crop(percent=(0, 0.1)),                         # random cropping
+                iaa.Affine(
+                    scale=(0.9, 1.1),                               # scaling
+                    rotate=(-10, 10),                               # rotation ±10°
+                    mode='reflect'
+                ),
+                iaa.MotionBlur(k=(3, 5)),                           # motion blur
+                iaa.AdditiveGaussianNoise(scale=(0, 0.03 * 255)),   # noise
+                iaa.Fliplr(0.5)                                     # horizontal flip
+            ])
 
         # Load JSON split file
         split_file = self.dataset_path / "splits" / f"{split}.json"
@@ -51,6 +68,14 @@ class FSL105(Dataset):
         cap.release()
 
         clip = np.array(clip).transpose(1, 2, 3, 0)  # HWC -> HWC×T
+
+        # Apply augmentations
+        if self.transforms is not None:
+            aug_det = self.transforms.to_deterministic()
+            clip = np.array([
+                cv2.resize(aug_det.augment_image(clip[..., i]), (224, 224))  # <-- resize again here
+                for i in range(clip.shape[-1])
+            ]).transpose(1, 2, 3, 0)
 
         # normalize RGB
         clip = clip.astype(np.float32) / 255.0

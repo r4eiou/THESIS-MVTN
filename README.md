@@ -75,6 +75,15 @@ src_mvtn/
 
 
 Note: working already (no data augmentation yet)
+Data Augmentation: (from paper)
+brightness and contrast variation, 
+random cropping, 
+scaling, 
+rotation (±10 degrees), 
+motion blur, 
+background noise injection, and 
+horizontal flipping.
+
 
 TO DO: Fix data augmentation
 
