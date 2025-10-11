@@ -74,18 +74,17 @@ src_mvtn/
 ├── Untitled.ipynb                    # idk
 
 
-Note: working already (no data augmentation yet)
 Data Augmentation: (from paper)
-brightness and contrast variation, 
-random cropping, 
+brightness,
+contrast variation, 
+random cropping (removed)
 scaling, 
 rotation (±10 degrees), 
 motion blur, 
 background noise injection, and 
 horizontal flipping.
 
-
-TO DO: Fix data augmentation
+Note: Working already
 
 To run the program:
 [train] 

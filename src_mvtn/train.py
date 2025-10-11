@@ -172,11 +172,11 @@ class GestureTrainer(object):
             self.val_transforms = iaa.CenterCropToFixedSize(256, 192)
         elif self.dataset == "fsl105":
             Dataset = FSL105
-            self.train_transforms = iaa.Sequential([
-                iaa.Resize((0.9, 1.1)),
-                iaa.CropToFixedSize(width=224, height=224),
-                iaa.Rotate((-10, 10))
-            ])
+            # self.train_transforms = iaa.Sequential([
+            #     # iaa.Resize((0.9, 1.1)),
+            #     iaa.CropToFixedSize(width=224, height=224),
+            #     iaa.Rotate((-10, 10))
+            # ])
             self.val_transforms = iaa.CenterCropToFixedSize(224, 224)
         else:
             raise NotImplementedError(f"Dataset not supported: {self.configer.get('dataset')}")

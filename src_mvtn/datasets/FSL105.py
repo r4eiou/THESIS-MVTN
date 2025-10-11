@@ -19,12 +19,13 @@ class FSL105(Dataset):
         self.transforms = transforms
         self.n_frames = n_frames
 
-        # If no transform is provided, define a default augmentation (for training)
+        # If no transform is provided, define a default augmentation (for training only)
         if self.transforms is None and split == "train":
             self.transforms = iaa.Sequential([
                 iaa.Multiply((0.8, 1.2)),                           # brightness variation
                 iaa.LinearContrast((0.75, 1.25)),                   # contrast variation
-                iaa.Crop(percent=(0, 0.1)),                         # random cropping
+                # iaa.Crop(percent=(0, 0.1)),                       # random cropping; commented out to avoid size mismatch
+                iaa.CropToFixedSize(224, 224),                      # fixed output size
                 iaa.Affine(
                     scale=(0.9, 1.1),                               # scaling
                     rotate=(-10, 10),                               # rotation ±10°
@@ -69,22 +70,21 @@ class FSL105(Dataset):
 
         clip = np.array(clip).transpose(1, 2, 3, 0)  # HWC -> HWC×T
 
-        # Apply augmentations
-        if self.transforms is not None:
-            aug_det = self.transforms.to_deterministic()
-            clip = np.array([
-                cv2.resize(aug_det.augment_image(clip[..., i]), (224, 224))  # <-- resize again here
-                for i in range(clip.shape[-1])
-            ]).transpose(1, 2, 3, 0)
+        # Apply augmentations; issue here: double resizing if uncommented
+        # if self.transforms is not None:
+        #     aug_det = self.transforms.to_deterministic()
+        #     clip = np.array([
+        #         cv2.resize(aug_det.augment_image(clip[..., i]), (224, 224))  # <-- resize again here
+        #         for i in range(clip.shape[-1])
+        #     ]).transpose(1, 2, 3, 0)
 
         # normalize RGB
         clip = clip.astype(np.float32) / 255.0
 
-        # bug here: error: RuntimeError: stack expects each tensor to be equal size, but got [120, 205, 205] at entry 0 and [120, 224, 224] at entry 1
         # apply augmentation if any
-        # if self.transforms is not None:
-        #     aug_det = self.transforms.to_deterministic()
-        #     clip = np.array([aug_det.augment_image(clip[..., i]) for i in range(clip.shape[-1])]).transpose(1, 2, 3, 0)
+        if self.transforms is not None:
+            aug_det = self.transforms.to_deterministic()
+            clip = np.array([aug_det.augment_image(clip[..., i]) for i in range(clip.shape[-1])]).transpose(1, 2, 3, 0)
 
         # convert to torch tensor (C × H × W × T)
         clip = torch.from_numpy(clip.reshape(clip.shape[0], clip.shape[1], -1).transpose(2, 0, 1))

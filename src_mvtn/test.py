@@ -104,7 +104,7 @@ class GestureTest(object):
             self.transforms = iaa.CenterCropToFixedSize(256, 192)
         elif self.dataset == "FSL105":
             Dataset = FSL105
-            self.transforms = iaa.Resize({"height": 224, "width": 224})
+            self.transforms = iaa.CenterCropToFixedSize(224, 224)
         else:
             raise NotImplementedError(f"Dataset not supported: {self.configer.get('dataset')}")
 
